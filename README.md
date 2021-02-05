@@ -1,2 +1,2 @@
-# Inclusive
+# Inkluded
 Sample application with svelte testing llibrary
